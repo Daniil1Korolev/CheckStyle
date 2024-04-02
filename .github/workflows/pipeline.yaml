@@ -1,4 +1,4 @@
-name: Python_pipeline
+name: Python_pipe
 
 on:
   push:
