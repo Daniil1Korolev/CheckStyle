@@ -3,7 +3,7 @@ name: Python_pipe
 on:
   push:
     branches:
-      -master
+      - master
 
 jobs:
   checkstyle_project:
